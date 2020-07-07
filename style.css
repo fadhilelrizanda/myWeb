@@ -97,3 +97,10 @@ padding-left: 0;
     background-image: linear-gradient(120deg,#59f354 0%,#38d832 100%);
     border-radius: 10px;
 }
+.birth{
+    font-size: 13px;
+    margin-top: 0px;
+    background-color:#1e1e3f;
+    opacity: 0.8;
+    color: white;
+}
